@@ -1,5 +1,5 @@
 ---
-title: Highlights Of Mahabharata Unravelled
+title: Mahabharata Unravelled: My Reading Highlights
 date: 2026-10-16T16:35:15+05:30
 tags:
   - "mythology"
@@ -21,11 +21,15 @@ Do what is beneficial for all, most of all for your ātmā, driven by pure intel
 
 ### The Upapandavas
 
-Draupadi bore the Pāndavas one son each. Prativindhya with Yudhishthira, Sutasoma with Bheema, Shrutakirti with Arjuna, Shatānika with Nakula and Shrutakarma with Sahadeva
+Draupadi bore one son to each of the five Pandavas:
 
-The Pāndavas had other wives too.
+Yudhishthira: Prativindhya
+Bhima: Sutasoma
+Arjuna: Shrutakirti
+Nakula: Shatanika
+Sahadeva: Shrutakarma
 
-Yudhishthira married Devikā, the daughter of the Shaibya king Govāsan. He had a son with her named Yaudheya. Bheema had two other wives, Hidimbā of the rākshasa tribe, and the princess of Kāshi, Valandharā. Ghatotkacha was Bheema’s son with Hidimbā. With Valandharā, he had a son named Savarga. Arjuna married a Nāga princess Uloopi, Chitrāngadā, the princess of a southern coastal kingdom of Manipur7 and Krishna’s sister Subhadrā. With them, he had a son each, Irāvan, Babruvāhana and Abhimanyu. Nakula married Karenumati of Chedi and had a son with her named Nirāmitra. Sahadeva married Vijayā, the daughter of King Dyutimān of Madra desh. Suhotra was Sahadeva’s son through her.
+The Pāndavas had other wives too. Yudhishthira married Devikā, the daughter of the Shaibya king Govāsan. He had a son with her named Yaudheya. Bheema had two other wives, Hidimbā of the rākshasa tribe, and the princess of Kāshi, Valandharā. Ghatotkacha was Bheema’s son with Hidimbā. With Valandharā, he had a son named Savarga. Arjuna married a Nāga princess Uloopi, Chitrāngadā, the princess of a southern coastal kingdom of Manipur7 and Krishna’s sister Subhadrā. With them, he had a son each, Irāvan, Babruvāhana and Abhimanyu. Nakula married Karenumati of Chedi and had a son with her named Nirāmitra. Sahadeva married Vijayā, the daughter of King Dyutimān of Madra desh. Suhotra was Sahadeva’s son through her.
 
 ## Shakuntalā’s Grit
 
@@ -45,13 +49,13 @@ Beyond the technicalities and norms, there was another snag. All five Pāṇḍa
 
 ### Vikarna on Whether Draupadi Was Won
 
-Vikarana is Basically Duryodhana’s brother. He supports Vidur By saying 
+Vikarna, Duryodhana's brother, questions whether Yudhishthira could legitimately stake Draupadi after losing himself in the game of dice.
 
 >‘Draupadi has posed a valid question before us. If not resolved honestly, great misfortune will befall us. Even if none of you say anything, I will certainly share what I believe. The scriptures talk about four vices of a king—alcoholism, hunting, gambling and lust. A decision made when a person is deluded by one of these vices is not honourable. Yudhishthira staked Draupadi having lost his mind in gambling. In addition, he is not Draupadi’s only husband; the other four brothers have equal claim on her. Above all, he lost himself before staking Draupadi. Moreover, Yudhishthira was provoked into staking Draupadi by Shakuni. With a view of all these factors, I do not consider Draupadi as won over by Duryodhana.'
 
 ## Sāvitri
 
-Following is Sāvitri is speaking to Yama. The excerpt begins inside her speech and refers to a boon already granted, which is not included.
+Sāvitri is speaking to Yama, asking him to restore Satyavān's life. The passage begins midway through their conversation, after Yama has already granted her a boon.
 
 >Your boon can come true only if I can live with Satyavān as his wife. To keep your word, Sir, I request you grant my husband life. Without him, I am as good as dead,’ Sāvitri pleaded. Yama laughed aloud. He had been outwitted by this damsel. ‘You have won me over with your wisdom, speech and sincerity. I will do as you wish. Satyavān will regain his life. Together, you shall have a hundred children and live a healthy and happy life.’ Yama blessed her and went away.
 
@@ -205,5 +209,8 @@ In the Ashwamedha Yajna, a horse of an excellent breed was let loose and allowed
 All wisdom pertaining to the four Purushārthas— Dharma, Artha, Kāma, Moksha—found here may be found elsewhere, but that which is not here is not to be found anywhere.
 
 > धर्मे चार्थे च कामे च मोक्षे च भरतर्षभ। यदि हास्ति तदन्यत्र यन्नेहास्ति न कु त्रचि त्।
+
+Source: Ami Ganatra, [Mahabharata Unravelled]([https://google.com](https://www.goodreads.com/en/book/show/58457870-mahabharata-unravelled))
+
 
 
