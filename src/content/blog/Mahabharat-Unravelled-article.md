@@ -2,7 +2,6 @@
 title: Highlights Of Mahabharata Unravelled
 date: 2026-10-16T16:35:15+05:30
 tags:
-  - "Mahabharata"
   - "mythology"
   - "book-notes"
 categories:
@@ -11,7 +10,7 @@ featured: false
 toc: true
 comments: true
 ---
-Do what is beneficial for all, most of all for your ātmā, driven by pure intellect.”
+Do what is beneficial for all, most of all for your ātmā, driven by pure intellect.
 <!-- more -->
 ## Introduction: What Is Dharma?
 
