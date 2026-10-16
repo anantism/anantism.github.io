@@ -4,10 +4,10 @@
 
 export const SITE = {
   // Basic information
-  url: "https://astro-jing-theme.ziteh.dev", // Your site's URL, e.g. https://username.github.io
-  title: "Astro Jing", // Your blog title
-  description: "A calm Astro theme for blogging.", // Your blog description
-  author: "ZiTe", // 君の名は ~
+  url: "https://anantism.github.io/", // Your site's URL, e.g. https://username.github.io
+  title: "Anantism", // Your blog title
+  description: "A musings for Anantism.", // Your blog description
+  author: "Anant Goyal", // 君の名は ~
 
   // Pagination
   postsPerHomepage: 3,
