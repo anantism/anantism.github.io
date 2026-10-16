@@ -1,16 +1,9 @@
 <!-- markdownlint-disable first-line-h1 -->
 
-[Astro Jing](https://github.com/ziteh/astro-jing-theme) is a calm blog theme powered by [Astro](https://astro.build/).
+Anantism is my personal archive of ideas, observations, and things worth remembering.
 
-Features:
+Here, I write about books, neuropsychology, human behaviour, philosophy, and the occasional curiosity that catches my attention. Some entries are detailed notes from things I've read; others are simply thoughts worth preserving.
 
-- Auto-generate post descriptions based on character count or up to the `<!-- more -->` tag
-- Auto-expanding & collapsing table of contents
-- Open Graph image generation
-- Full-text search
-- Syntax highlighting
-- Math equations
-- Internationalization (i18n)
-- Comment systems (Giscus / Disqus)
-- Sitemap & RSS feed
-- Static site
+This is a space for learning in public, following curiosity, and making sense of the world, one idea at a time.
+
+An ongoing record of a curious mind.
