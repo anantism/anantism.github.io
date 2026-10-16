@@ -1,5 +1,5 @@
 ---
-title: Mahabharata Unravelled: My Reading Highlights
+title: Mahabharata Unravelled - My Reading Highlights
 date: 2026-10-16T16:35:15+05:30
 tags:
   - "mythology"
