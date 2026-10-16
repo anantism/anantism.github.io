@@ -1,7 +1,10 @@
 ---
 title: Highlights Of Mahabharata Unravelled
 date: 2026-10-16T16:35:15+05:30
-tags: aghighlights
+tags:
+  - "Mahabharata"
+  - "mythology"
+  - "book-notes"
 categories:
   - Books
 featured: false
