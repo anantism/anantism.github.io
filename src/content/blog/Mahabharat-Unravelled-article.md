@@ -24,11 +24,11 @@ Do what is beneficial for all, most of all for your ātmā, driven by pure intel
 
 Draupadi bore one son to each of the five Pandavas:
 
-Yudhishthira: Prativindhya
-Bhima: Sutasoma
-Arjuna: Shrutakirti
-Nakula: Shatanika
-Sahadeva: Shrutakarma
+- **Yudhishthira:** Prativindhya
+- **Bhima:** Sutasoma
+- **Arjuna:** Shrutakirti
+- **Nakula:** Shatanika
+- **Sahadeva:** Shrutakarma
 
 The Pāndavas had other wives too. Yudhishthira married Devikā, the daughter of the Shaibya king Govāsan. He had a son with her named Yaudheya. Bheema had two other wives, Hidimbā of the rākshasa tribe, and the princess of Kāshi, Valandharā. Ghatotkacha was Bheema’s son with Hidimbā. With Valandharā, he had a son named Savarga. Arjuna married a Nāga princess Uloopi, Chitrāngadā, the princess of a southern coastal kingdom of Manipur7 and Krishna’s sister Subhadrā. With them, he had a son each, Irāvan, Babruvāhana and Abhimanyu. Nakula married Karenumati of Chedi and had a son with her named Nirāmitra. Sahadeva married Vijayā, the daughter of King Dyutimān of Madra desh. Suhotra was Sahadeva’s son through her.
 
